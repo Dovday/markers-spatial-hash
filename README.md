@@ -14,12 +14,6 @@ A lightweight and efficient map visualization package that helps you manage and 
 
 - **Node.js** and **npm** installed on your system.
 
-You also need to install the following dependencies:
-
-```bash
-npm install uuid react-native-get-random-values
-```
-
 ## 📦 Installation
 
 To install the `markers-spatial-hash` package, run the following command:
