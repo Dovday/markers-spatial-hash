@@ -1,5 +1,3 @@
-Sure! Here's the README file with a few emojis added for better readability and emphasis:
-
 ---
 
 # Markers Spatial Hash 🗺️
@@ -15,19 +13,11 @@ A lightweight and efficient map visualization package that helps you manage and 
 ## ⚙️ Prerequisites
 
 - **Node.js** and **npm** installed on your system.
-- **React Native** (for rendering the map) installed and configured.
-- The `react-native-maps` package for map handling.
-
-You can install React Native Maps with the following command:
-
-```bash
-npm install react-native-maps
-```
 
 You also need to install the following dependencies:
 
 ```bash
-npm install uuid @turf/turf react-native-get-random-values
+npm install uuid react-native-get-random-values
 ```
 
 ## 📦 Installation
@@ -172,5 +162,3 @@ export default Map;
 This package is open-sourced and licensed under the [MIT License](LICENSE).
 
 ---
-
-This version adds a touch of emojis for better readability and engagement while keeping it professional. Let me know if you would like any more changes! 😄
