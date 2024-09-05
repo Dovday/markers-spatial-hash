@@ -1,0 +1,27 @@
+{
+  "name": "markers-spatial-hash",
+  "version": "1.0.0",
+  "description": "Lightweight and efficient map visualization package that helps you manage and render large sets of markers on a 100x100 grid. By categorizing and organizing markers into a grid, this package significantly improves map performance, especially when panning or zooming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dovday/markers-spatial-hash.git"
+  },
+  "keywords": [
+    "spatialHash",
+    "spatial",
+    "hash",
+    "map",
+    "markers",
+    "performance"
+  ],
+  "author": "dovday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dovday/markers-spatial-hash/issues"
+  },
+  "homepage": "https://github.com/Dovday/markers-spatial-hash#readme"
+}
